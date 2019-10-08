@@ -5,7 +5,6 @@ import Modal from "./Modal";
 import Carousel from "./Carousel";
 import ErrorBoundary from "./ErrorBoundary";
 import ThemeContext from "./ThemeContext";
-import { timingSafeEqual } from "crypto";
 
 class Details extends React.Component {
   constructor(props) {
